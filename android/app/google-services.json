@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299040258134",
+    "firebase_url": "https://saikomakki-26be1.firebaseio.com",
+    "project_id": "saikomakki-26be1",
+    "storage_bucket": "saikomakki-26be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299040258134:android:8b900b14c290d7906163f7",
+        "android_client_info": {
+          "package_name": "com.saiko.saikomakki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299040258134-4ki7220up77lcrfqhovfd1g3f6re215d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzUq80Xm42_3X_pUf_4Wdmzly8lw2oL2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299040258134-4ki7220up77lcrfqhovfd1g3f6re215d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
